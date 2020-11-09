@@ -1,0 +1,542 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+header{
+    background: #87509C;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+    
+}
+.logo{
+    width: 30%;
+    float: left;
+}
+.menu{
+    width: 70%;
+    float: left;
+}
+.menu ul{
+    list-style: none;
+    
+    
+}
+.menu ul li{
+    display: inline-block; 
+    margin: 10px 39px;
+    
+}
+.menu ul li a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.banner{
+    width: 65%;
+    margin: 0 auto;
+    padding: 90px 0px;
+}
+.banner h2{
+    color:white;
+    font-size: 32px;
+    text-align: center;
+    line-height: 34px;
+    letter-spacing: 1px;
+}
+.btn-one{
+    padding: 8px 15px;
+    box-shadow: 0px 5px 2px orange;
+    background: orange;
+    color: white;
+    display: block;
+    margin: 4% auto;
+    border: none;
+    text-transform: uppercase;
+
+}
+.service{
+   background: cyan;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+}
+
+.tittle{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.tittle h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    text-align: center;    
+}
+.tittle span{
+    border-bottom:  2px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+.tittle p{
+    font-size: 18px;
+}
+.service-feature{
+   padding: 15px 0px;
+    text-align: center;
+}
+.service-one{
+    width: 22%;
+    float: left;
+    margin : 0px 15px;
+    
+}
+.service-one h2{
+    
+    color: white;
+    margin: 10px 0px;
+}
+.service-one h6{
+    color: white;
+    font-size: 16px;
+    
+}
+
+.service-part-two{
+   background: #D5D4D4;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+}
+
+.tittle-one{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.tittle-one h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    text-align: center;    
+}
+.tittle-one span{
+    border-bottom:  2px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+.tittle-one p{
+    font-size: 20px;
+}
+.service-feature-one{
+   padding: 15px 0px;
+    text-align: center;
+}
+
+.service-two{
+    width: 22%;
+    float: left;
+    margin : 0px 15px;
+    
+}
+.service-two img{
+    width:60%;
+}
+.service-two h2{
+    
+    color: black;
+    
+}
+.service-two h5{
+    color: 717BBC;
+    font-size: 12px;
+    color: purple;
+    margin: 10px 0px;
+}
+.service-two h6{
+    color: black;
+    font-size: 16px;
+    
+}
+.list-group a i{
+    background: gray;
+ 
+    color: white;
+    padding: 5px;
+    margin: 7px;
+    
+}
+
+
+
+.service-three-start{
+   background: white;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+}
+
+.tittle-three{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.tittle-three h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    text-align: center;    
+}
+.tittle-three span{
+    border-bottom:  2px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+.tittle-three p{
+    font-size: 18px;
+}
+.service-feature-three{
+   padding: 15px 0px;
+    text-align: center;
+}
+.service-three{
+    width: 22%;
+    float: left;
+    margin : 0px 15px;
+    
+}
+.service-three h2{
+    
+    color: black;
+    margin: 10px 0px;
+}
+
+.service-four-start{
+   background: #F3C37B;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+}
+
+.tittle-four{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.tittle-four h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    text-align: center;    
+}
+.tittle-four span{
+    border-bottom:  2px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+.tittle-four p{
+    font-size: 18px;
+}
+.tittle-four button{
+    background: #D2B48C;
+    padding: 15px;
+    margin: 20px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.service-feature-four{
+   padding: 15px 0px;
+    text-align: center;
+    width: 100%
+}
+.service-four{
+    width: 46%;
+    float: left;
+    margin : 0px 15px;
+    
+}
+.service-four h4{
+    
+    color: black;
+    margin: 10px 0px;
+}
+.service-feature-five{
+   padding: 15px 0px;
+    text-align: center;
+     width: 100%
+     
+}
+.service-five{
+    width: 46%;
+    float: left;
+    margin : 0px 15px;
+    
+}
+.service-five h4{
+    
+    color: black;
+    margin: 10px 0px;
+}
+.btn-two{
+    padding: 8px 15px;
+    box-shadow: 0px 5px 2px #40E0D0;
+    background:  #40E0D0;
+    color: white;
+    display: block;
+    margin: 4% auto;
+    border: none;
+    text-transform: uppercase;
+
+}
+
+
+
+
+.service-six-start{
+   background: #FF1493 ;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+}
+
+.tittle-six{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.tittle-six h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    text-align: center;
+    color: white;
+}
+.tittle-six span{
+    border-bottom:  2px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+.tittle-six p{
+    font-size: 18px;
+    color: white;
+}
+
+.service-feature-six{
+   padding: 15px 0px;
+    text-align: center;
+    width: 100%;
+}
+.service-six{
+    width: 46%;
+    float: left;
+    margin : 0px 15px;
+    
+}
+.service-six img{
+    width: 25%;
+}
+.one{
+    width 20%;
+    float: left;
+}
+.one h1{
+    
+    color: white;
+    margin: 10px 0px;
+}
+.one p{
+    
+    color: white;
+    margin: 10px 0px;
+    font-style: italic;
+}
+.one h6{
+    color: yellow;
+}
+.service-feature-seven{
+   padding: 15px 0px;
+    text-align: center;
+     width: 100%
+     
+}
+.service-seven{
+    width: 46%;
+    float: left;
+    margin : 0px 15px;
+    
+}
+.service-seven img{
+    width: 25%;
+}
+.one{
+    width 20%;
+    float: left;
+}
+.one h1{
+    
+    color: white;
+    margin: 10px 0px;
+}
+.one p{
+    
+    color: white;
+    margin: 10px 0px;
+    font-style: italic;
+}
+.one h6{
+    color: yellow;
+}
+
+
+.service-eight-start{
+   background: darkblue;
+    padding: 25px 0px;
+    width: 100%;
+    float: left;
+}
+
+.tittle-eight{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+.tittle-eight h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px 10px;
+    text-align: center; 
+    color: white;
+}
+.tittle-eight span{
+    border-bottom:  2px solid black;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+.tittle-eight p{
+    font-size: 18px;
+    color: white;
+}
+.service-eight-one{
+   width: 50%;
+   float: left;
+    display: flex;
+    justify-content: space-between;
+    
+ 
+}
+
+.service-eight-one input {
+  max-width: 475px;
+  width: 100%;
+  background-color: navy;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    text-align: center;
+    border: none;
+    
+    
+}
+
+textarea {
+  margin-top: 20px; 
+  background-color: navy; 
+  width: 60%;
+    border: none;
+}
+.btn-three{
+    padding: 8px 15px;
+    box-shadow: 0px 5px 2px #40E0D0;
+    background:  #40E0D0;
+    color: white;
+    display: block;
+    margin: 4% auto;
+    border: none;
+    text-transform: uppercase;
+
+}
+
+.section-last{
+    background: navy ;
+    padding: 10px 0px;
+    width: 100%;
+    float: left;
+    
+
+
+}
+.six{
+    width: 100%;
+    float: left;
+}
+.textarea{
+    background: navy;
+}
+.last{
+     width: 14%;
+    float: left;
+    display: block;
+    margin: 2% 1%;
+    
+   
+    
+}
+.last h1{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
